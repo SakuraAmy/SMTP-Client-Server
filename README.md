@@ -1,6 +1,6 @@
-# STMP Server/Client Project
+# STMP Client/Server Project
 
-“Create a multithreaded SMTP server and client that will communicate over the network.”
+â€œCreate a multithreaded SMTP server and client that will communicate over the network.â€
 
 ## Team
  - Amina Mahmood
