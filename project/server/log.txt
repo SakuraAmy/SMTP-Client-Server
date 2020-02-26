@@ -1,0 +1,42 @@
+From: scp1910@129.21.227.206
+To: scp1910@129.21.227.206
+Date: 2018/05/03 20:04:51
+Subject: 
+
+Testing Server
+.
+
+
+
+From: scp1910@129.21.227.206
+To: scp1910@129.21.227.206
+Date: 2018/05/03 20:31:59
+Subject: 
+
+Testing the messaging and mail-inbox. Hope this works
+.
+
+
+
+From: scp1910@129.21.227.206
+To: scp1910@129.21.227.206
+Date: 2018/05/03 20:34:00
+Subject: 
+
+Testing send after mail retrieve 
+.
+
+
+
+From: scp1910@129.21.227.206
+To: scp1910@129.21.227.206
+Date: 2018/05/03 20:39:38
+Subject: 
+
+--Begin encrypted message--
+whvwlqj
+--End encrypted message--
+.
+
+
+

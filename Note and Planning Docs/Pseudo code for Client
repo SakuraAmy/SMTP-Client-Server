@@ -1,0 +1,17 @@
+//Pseudo Code for Client
+Program opened
+	Prompt username/server credential set
+Attempt connection to server
+
+Wait for user action
+
+-Refresh-
+Make input stream from server and copy file
+PREPEND to existing local file
+Parse file, looking for SMTP data a delimiters
+Update jtext areas for mailbox messages
+
+
+-On click of message-
+Read message from file
+Update text areas
